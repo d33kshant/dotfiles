@@ -1,0 +1,6 @@
+require("setting")
+require("plugin")
+require("colorscheme")
+require("nvim-web-devicons").setup()
+require("nvim-tree-config")
+require("lualine-config")

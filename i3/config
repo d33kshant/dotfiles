@@ -196,3 +196,6 @@ bindsym --release Print exec "scregcp $HOME/Pictures/Screenshots/"
 # Enable tap to click and netural scroll
 exec xinput set-prop "Synaptics TM3336-004" "libinput Tapping Enabled" 1
 exec xinput set-prop "Synaptics TM3336-004" "libinput Natural Scrolling Enabled" 1
+
+# Set a solid background
+exec xsetroot -solid "#333"

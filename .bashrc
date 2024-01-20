@@ -129,6 +129,3 @@ esac
 
 # pnpm alias
 alias pn='pnpm'
-
-# SurrealDB
-export PATH="/home/deekshant/.surrealdb:$PATH"
